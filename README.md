@@ -37,7 +37,7 @@ et statistiques.
 - Spring Boot 3
 - Spring Security + JWT
 - Spring Data JPA + Hibernate
-- MariaDB
+- MySQL
 
 ---
 
